@@ -89,6 +89,7 @@
   }
 
   .check-position {
+    display: none;
     top: 100%;
   }
 
@@ -127,10 +128,10 @@
 .Check-Available{
   display: none;
 }
-  .margin-button {
+  /* .margin-button {
     margin-left: 15px;
     margin-right: 15px;
-  }
+  } */
 
   .cab-image {
     height: 170px;
@@ -144,6 +145,7 @@
 
   .check-position {
     top: 86%;
+    display: none;
   }
 
   .form-input {
@@ -157,7 +159,7 @@
   }
 
   .container-create {
-    width: 100%;
+    width: 104%;
   }
 
   #tiny-slider {
